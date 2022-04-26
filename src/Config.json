@@ -1,0 +1,55 @@
+{
+    "token": "",
+    "prefix": "!",
+
+    "Bots":{
+    "VoiceChannel": "VOICE CHANNEL ID",
+    "footer":"Supervisor 🧡 Shewn?",
+    "activity":"Supervisor 🧡 Shewn?",
+    "status":"idle",
+    "type":"watching"
+    },
+
+    "Server":{
+     "GuildID": "GUILD ID"
+    },
+
+    "Emoji":{
+     "Çarpı": "RED EMOJI",
+     "Onay": "ONAY EMOJI"
+
+    },
+
+    "Otomatic":{
+     "GuildLoginOtoNick": "GUILD LOGIN OTO NICK",
+     "GuildLoginOtoRole": "GUILD LOGIN OTO ROLE"
+
+    },
+
+    "Channels":{
+     "BotKomut": "BOT KOMUT CHANNEL ID"
+
+    },
+
+    "Roles":{
+     "CmuteRolID": "CHAT MUTE ROL ID",
+     "JailRolID": "JAIL ROL ID",
+     "UnregisterRolID": "UNREGISTER ROL ID"
+
+    },
+    "Logs":{
+        "CmuteLogID": "CHAT MUTE LOG ID",
+        "VmuteLogID": "VOICE MUTE LOG ID",
+        "JailLogID": "JAIL LOG ID",
+        "BanLogID": "BAN LOG ID"
+    },
+    "Staff":{
+        "ChatMuteStaff": "CHAT MUTE SPEAR ROL ID",
+        "TransportStaff": "TRANSPORT SPEAR ROL ID",
+        "AbalityStaff": "ABALITY SPEAR (YETENEK) ROL ID",
+        "BanStaff": "BAN SPEAR ROL ID",
+        "JailStaff": "JAIL SPEAR ROL ID",
+        "VoiceMuteStaff": "VOICE SPEAR ROL ID",
+        "OwnerStaff": "OWNER ROL ID"
+    }
+}
